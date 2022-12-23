@@ -18,4 +18,5 @@ let c = (a,b) => {
 
 // c(10,15);
 let a = 'test';
+let b = 'for physical keyboard';
 // console.log(c);
