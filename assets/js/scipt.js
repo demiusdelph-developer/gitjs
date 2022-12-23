@@ -17,5 +17,5 @@ let c = (a,b) => {
 };
 
 // c(10,15);
-
+let a = 'test';
 // console.log(c);
