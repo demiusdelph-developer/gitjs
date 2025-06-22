@@ -1,13 +1,1 @@
-<<<<<<< HEAD
-{
-    "version": 3,
-    "mappings": "AAAA,AAAA,IAAI,CAAC;EACD,UAAU,EAAE,MAAM;CAAG",
-    "sources": [
-        "../sass/style.sass"
-    ],
-    "names": [],
-    "file": "style.css"
-}
-=======
-{"version":3,"sources":["../sass/style.scss","style.css"],"names":[],"mappings":"AAAA;EACI,gBAAA;EACA,WAAA;EACA,8BAAA;ACCJ","file":"style.css"}
->>>>>>> 57d5317 (Зберігаю локальні зміни перед синхронізацією)
+{"version":3,"sources":["../sass/style.sass","style.css"],"names":[],"mappings":"AAAA;EACE,gBAAA;EACA,WAAA;EACA,8BAAA;ACCF","file":"style.css"}

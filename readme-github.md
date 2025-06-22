@@ -54,4 +54,16 @@ git merge <гілка>          # Злиття гілки
 
 ---
 
-> Заміни `your-username` та `your-repo` на
+## Налаштування глобальних даних для GitHub
+
+```sh
+git config --global user.name "Your Name"
+git config --global user.email "your@email.com"
+```
+
+## Налаштування кінців рядків для git
+
+```sh
+git config --global core.autocrlf true   # Для Windows (рекомендується)
+git config --global core.autocrlf input  # Для Linux/macOS або якщо потрібен LF
+```
