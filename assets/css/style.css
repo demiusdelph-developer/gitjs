@@ -1,4 +1,11 @@
 body {
+<<<<<<< HEAD
   background: yellow;
 }
 /*# sourceMappingURL=style.css.map */
+=======
+  background: #222;
+  color: #fff;
+  font-family: Arial, sans-serif;
+}/*# sourceMappingURL=style.css.map */
+>>>>>>> 57d5317 (Зберігаю локальні зміни перед синхронізацією)

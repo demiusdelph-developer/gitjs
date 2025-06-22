@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "version": 3,
     "mappings": "AAAA,AAAA,IAAI,AAAC,CACD,UAAU,CAAE,MAAM,CAAG",
@@ -7,3 +8,6 @@
     "names": [],
     "file": "style.min.css"
 }
+=======
+{"version":3,"sources":["../sass/style.scss"],"names":[],"mappings":"AAAA,KACI,eAAA,CACA,UAAA,CACA,4BAAA","file":"style.min.css"}
+>>>>>>> 57d5317 (Зберігаю локальні зміни перед синхронізацією)
