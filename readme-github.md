@@ -67,3 +67,17 @@ git config --global user.email "your@email.com"
 git config --global core.autocrlf true   # Для Windows (рекомендується)
 git config --global core.autocrlf input  # Для Linux/macOS або якщо потрібен LF
 ```
+
+---
+
+## Попередження про CRLF/LF
+
+> Якщо при додаванні файлів з'являється попередження:
+> 
+> warning: in the working copy of 'readme.md', CRLF will be replaced by LF the next time Git touches it
+> 
+> Щоб уникнути цього, виконайте команду:
+> 
+> ```sh
+> git config --global core.autocrlf false
+> ```
